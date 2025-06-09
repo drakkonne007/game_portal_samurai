@@ -1,0 +1,5 @@
+build/
+web/
+windows/
+.dart_tool/
+.idea/
